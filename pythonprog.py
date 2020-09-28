@@ -40,3 +40,7 @@ if choice == '1':
 #Multiplication code from Sehanas's Repository
 elif choice == '3':
             print(num1, "*", num2, "=", multiply(num1, num2))
+
+#Subraction code from Srija's Repository
+elif choice == '2':
+            print(num1, "-", num2, "=", subtract(num1, num2))
